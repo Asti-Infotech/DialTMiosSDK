@@ -8,7 +8,7 @@ spec.summary      = "DialTM iOS SDk"
 spec.description  = "DialTM allows you to join meetings quickly on mobile phones, PCs, tablets, and webpages for a seamless experience. Integrated with native calendar applications for viewing scheduled meetings for quick reminders."
 
 spec.homepage     = "https://github.com/Asti-Infotech/DialTMiosSDK"
-spec.screenshots  = "https://www.google.com/maps/uv?pb=!1s0x3bae6dad7c919e0d%3A0xaeb4f93b036f8e45!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOBTaKfjeW9dtEqdf4pj6rX5jtPHAbXr85pp2GA%3Dw160-h160-k-no!5sdialtm%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOBTaKfjeW9dtEqdf4pj6rX5jtPHAbXr85pp2GA&hl=en&sa=X&ved=2ahUKEwiZ0c-L0KLvAhUYIbcAHSuHAScQoiowDXoECBYQAw#"
+spec.screenshots  = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_01e455d0e96c4b7295e1ab8cf2e25696/dialtm.png"
 
 
 spec.license      = "MIT"
