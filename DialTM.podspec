@@ -20,7 +20,7 @@ spec.platform     = :ios, '11.0'
 
 spec.source       = { :git => "https://github.com/Asti-Infotech/DialTMiosSDK.git", :tag => spec.version }
 
-spec.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework', 'Frameworks/WebRTC.xcframework'
+spec.vendored_frameworks = 'DialTMFrameworks/DialTM.xcframework', 'DialTMFrameworks/WebRTC.xcframework'
 
 spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
