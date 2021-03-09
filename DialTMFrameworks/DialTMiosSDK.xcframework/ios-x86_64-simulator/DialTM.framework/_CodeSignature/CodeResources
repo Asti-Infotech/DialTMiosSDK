@@ -20,18 +20,6 @@
 		<data>
 		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
 		</data>
-		<key>Frameworks/WebRTC.framework/Info.plist</key>
-		<data>
-		F71QTA46Zf7jhRGnKVTzoChwtAs=
-		</data>
-		<key>Frameworks/WebRTC.framework/WebRTC</key>
-		<data>
-		EU4XmMVNyM8zm3Lx6t4jukY0VAk=
-		</data>
-		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
-		<data>
-		dSyEQqTsGQNqTig5cX66r90/CGE=
-		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
 		BfmsbcfBh93cy6vWTriZJESBAgw=
@@ -879,27 +867,6 @@
 			<key>hash2</key>
 			<data>
 			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dVNzEUPcbZw+hZL4tHqdH1hU68KkJf8ijF5+zRSI+G0=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/WebRTC</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			p4icSi0VWU+OxEbtOqOT6RI1WDS4Xr9xY4AQdR8lg08=
-			</data>
-		</dict>
-		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			atMkxTEPlEQFnqbVZZz9RMadgjVmgJR9Iuc0jSW+LX4=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Info.plist</key>
