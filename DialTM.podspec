@@ -14,6 +14,10 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = 'DialTMFrameworks/DialTM.xcframework', 'DialTMFrameworks/WebRTC.xcframework'
   
+  s.subspec "WebRTC" do |framework|
+          framework.vendored_framework = 'DialTMFrameworks/WebRTC.xcframework'
+     end
+  
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
