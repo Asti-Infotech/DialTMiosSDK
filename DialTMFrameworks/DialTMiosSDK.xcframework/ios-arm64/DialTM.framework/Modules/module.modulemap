@@ -1,0 +1,11 @@
+framework module DialTM {
+  umbrella header "DialTM.h"
+
+  export *
+  module * { export * }
+}
+
+module DialTM.Swift {
+    header "DialTM-Swift.h"
+    requires objc
+}
