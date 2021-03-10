@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'DialTMios'
+  s.name             = 'DialTM'
   s.version          = '1.0.0'
   s.summary          = 'DialTM iOS SDk'
   s.description      = 'DialTM allows you to join meetings quickly on mobile phones, PCs, tablets, and webpages for a seamless experience. Integrated with native calendar applications for viewing scheduled meetings for quick reminders.'
@@ -12,11 +12,7 @@ Pod::Spec.new do |s|
 
   s.platform         = :ios, '11.0'
 
-  s.vendored_frameworks = 'DialTMFrameworks/DialTMiosSDK.xcframework', 'DialTMFrameworks/WebRTC.xcframework'
-  
-  s.subspec "WebRTC" do |framework|
-          framework.vendored_framework = 'DialTMFrameworks/WebRTC.xcframework'
-     end
+  s.vendored_frameworks = 'DialTMFrameworks/DialTM.xcframework', 'DialTMFrameworks/WebRTC.xcframework'
   
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
