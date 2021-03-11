@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'DialTM'
-  s.version          = '1.0.0'
+  s.name             = 'DialTMiosSDK'
+  s.version          = '1.0.1'
   s.summary          = 'DialTM iOS SDk'
   s.description      = 'DialTM allows you to join meetings quickly on mobile phones, PCs, tablets, and webpages for a seamless experience. Integrated with native calendar applications for viewing scheduled meetings for quick reminders.'
   s.homepage         = 'https://github.com/Asti-Infotech/DialTMiosSDK'
